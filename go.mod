@@ -9,7 +9,7 @@ require (
 	github.com/onsi/gomega v1.4.3
 	github.com/pkg/errors v0.8.1
 	github.com/tokencard/ethertest v0.9.1-0.20200731114835-9cf371a9ab63
-	golang.org/x/crypto v0.0.0-20200311171314-f7b00557c8c4
+	golang.org/x/crypto v0.1.0
 )
 
 go 1.14
